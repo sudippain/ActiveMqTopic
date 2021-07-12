@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "destination.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'destination.topic'"
+  },
+  {
+    "name": "activemq.broker-url",
+    "type": "java.lang.String",
+    "description": "A description for 'activemq.broker-url'"
+  }
+]}
